@@ -36,3 +36,20 @@
     transform: rotate(360deg);
   }
 }
+
+/* I wrote this code */
+body {
+  background: linear-gradient(
+    90deg,
+    rgba(2, 0, 36, 1) 0%,
+    rgba(75, 14, 154, 1) 35%,
+    rgba(0, 212, 255, 1) 100%
+  );
+  color: white;
+
+  padding: 10px 20px 30px 30px;
+  margin: 50px;
+
+  border: 2px solid white;
+  border-radius: 10px;
+}
